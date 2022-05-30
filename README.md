@@ -25,14 +25,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### React router Hooks and Links | React Beginners Project
 ### React CSS Width and Height Settings | React App Full Screen Size
 ### React Axios API Request | Axios with React JS Tutorial
-### React Custom Hooks with Axios Async useEffect | RReact Tutorials for Beginners
+### React Custom Hooks with Axios Async useEffect | React Tutorials for Beginners
 ### Redux Made Easy | Learn React Redux | Redux Tutorial for Beginners
 ### How to deploy a React App to Github Pages and Netlify | React JS Tutorials for Beginners
 ### React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours
 ### Avoid this react State Mistake | React Previous State Explained 
 ### useCallback STOPS this React MISTAKE | useCallback React Hooks Tutorial
 ### useMemo Explained | React Hooks useMemo Tutorial
-### BUILD a React TTimer with useRef | React Hooks useRef Tutorial
+### BUILD a React Timer with useRef | React Hooks useRef Tutorial
 ### useReducer is BETTER than useState | React Hook useReducer Tutorial
 ### React Router v6 in 20 Minutes | Rv6 Upgrade & Refactor Tutorial
 ### useLayoutEffect vs useEffect | React Hooks Tutorial
@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### React Persistent User Login Authentication with JWT Tokens
 ### React Login Input Hooks for User Form Data
 ### Use Axios with React Hooks for Async-Await Requests
-### React.ks User Login and registration with Auth0
+### React.js User Login and registration with Auth0
 ### React 18 New Features, Changes & v18 Upgrade Guide
 
 
